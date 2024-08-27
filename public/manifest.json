@@ -1,11 +1,11 @@
 {
-  "name": "桃井最中Monaka按钮",
-  "short_name": "Monaka按钮",
-  "description": "Monaka BUTTON PWA",
+  "name": "喵田弥夜按钮",
+  "short_name": "Miya按钮",
+  "description": "Miya BUTTON PWA",
   "icons": [
     {
-      "src": "https://monaka.yokinanya.icu/img/logo.png",
-      "sizes": "162x162",
+      "src": "https://miya.yokinanya.icu/img/logo.png",
+      "sizes": "900x900",
       "type": "image/png"
     }
   ],
