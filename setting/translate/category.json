@@ -2,58 +2,31 @@
   {
     "name": "未分类",
     "translate": {
-      "zh-CN": "不知道怎么分的分类"
+      "zh-CN": "未分类"
     }
   },
   {
-    "name": "问候",
+    "name": "普通",
     "translate": {
-      "zh-CN": "问候"
+      "zh-CN": "普通"
     }
   },
   {
-    "name": "可爱",
+    "name": "卖萌",
     "translate": {
-      "zh-CN": "可爱"
+      "zh-CN": "卖萌"
     }
   },
   {
-    "name": "委屈",
+    "name": "怪叫",
     "translate": {
-      "zh-CN": "委屈"
+      "zh-CN": "怪叫"
     }
   },
   {
-    "name":"怪话",
-    "translate":{
-      "zh-CN":"怪话"
+    "name": "阴阳",
+    "translate": {
+      "zh-CN": "阴阳"
     }
-  },
-  {
-    "name":"惊吓",
-    "translate":{
-      "zh-CN":"惊吓"
-    }
-  },
-  {
-    "name":"跳脸",
-    "translate":{
-      "zh-CN":"跳脸"
-    }
-  },
-  {
-    "name":"唱歌",
-    "translate":{
-      "zh-CN":"唱歌"
-    }
-  },
-  {
-    "name":"台词",
-    "translate":{
-      "zh-CN":"台词"
-    }
-  },
-  {
-    "name":"亲亲猪猪宝贝"
   }
 ]

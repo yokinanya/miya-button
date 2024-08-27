@@ -194,7 +194,7 @@ onMounted(() => {
     animation-delay 0.5s
 
   .title
-    color #eee
+    color #5F505F
     font-size 20px
     margin-right 10px
     user-select none

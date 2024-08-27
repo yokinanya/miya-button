@@ -3,11 +3,11 @@
   "neko_mimi": false,
   "name": {
     "CN": {
-      "title": "monaka按钮",
+      "title": "Miya按钮",
       "fullName": ""
     },
     "EN": {
-      "title": "Monaka Button",
+      "title": "Miya Button",
       "fullName": ""
     }
   },
@@ -33,6 +33,11 @@
       "name": "塔菲按钮",
       "url": "https://acetaffy.club/",
       "background": "#FBADC4"
+    },
+    {
+      "name": "monaka按钮",
+      "url": "https://monaka.yokinanya.icu/",
+      "background": "#FFC0CB"
     }
   ],
   "footer": {
@@ -42,8 +47,8 @@
         "url": "https://github.com/yokinanya"
       }
     ],
-    "info": ["桃井最中monaka按钮"],
-    "githubUrl": "https://github.com/yokinanya/monaka-button"
+    "info": ["喵田弥夜按钮"],
+    "githubUrl": "https://github.com/yokinanya/miya-button"
   },
   "console": {
     "text": "",
